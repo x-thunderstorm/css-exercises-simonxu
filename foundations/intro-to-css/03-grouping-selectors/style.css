@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.normal,
+.warning {
+    font-size: 28px;
+    font-family: Helvetica, "Time New Roman", sans-serif;
+}
+
+.normal {
+    background-color: black;
+    color: white;
+}
+
+.warning {
+    background-color: yellow;
+}
